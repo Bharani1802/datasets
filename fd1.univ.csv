@@ -1,0 +1,6 @@
+city,country,location.coordinates,location.type,name,students
+Bombay,India,"[18.9294,72.831]",Point,University of Bombay,"[{""year"":2014,""number"":38334},{""year"":2015,""number"":342555},{""year"":2016,""number"":32793},{""year"":2017,""number"":18949}]"
+Madurai,India,"[9.8821,78.0816]",Point,Thiagarajar College of Engineering,"[{""year"":2014,""number"":40245},{""year"":2015,""number"":38738},{""year"":2016,""number"":46563},{""year"":2017,""number"":84930}]"
+Madurai,India,"[9.9404,78.0105]",Point,Madurai Kamaraj University,"[{""year"":2014,""number"":15893},{""year"":2015,""number"":39430},{""year"":2016,""number"":23509},{""year"":2017,""number"":47923}]"
+Coimbatore,India,"[11.0283,77.0273]",Point,CIT,"[{""year"":2014,""number"":39947},{""year"":2015,""number"":36473},{""year"":2016,""number"":34798},{""year"":2017,""number"":43030}]"
+Chiyoda,Japan,"[43.078,141.34]",Point,Hokkaido University,"[{""year"":2020,""number"":11003},{""year"":2019,""number"":9638},{""year"":2018,""number"":9594},{""year"":2017,""number"":8994}]"

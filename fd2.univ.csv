@@ -1,0 +1,6 @@
+city,country,location.coordinates,location.type,name,students
+Bombay,India,"[19.1334,72.9133]",Point,IIT Bombay,"[{""year"":2014,""number"":24774},{""year"":2015,""number"":23166},{""year"":2016,""number"":21913},{""year"":2017,""number"":21715}]"
+Coimbatore,India,"[11.0242,77.0028]",Point,PSG,"[{""year"":2014,""number"":34893},{""year"":2015,""number"":37638},{""year"":2016,""number"":36543},{""year"":2017,""number"":45202}]"
+Salamanca,Spain,"[-5.6691191,17,40.9631732]",Point,UPSA,"[{""year"":2014,""number"":4788},{""year"":2015,""number"":4821},{""year"":2016,""number"":6550},{""year"":2017,""number"":6125}]"
+Salamanca,Spain,"[-5.6722512,17,40.9607792]",Point,USAL,"[{""year"":2014,""number"":24774},{""year"":2015,""number"":23166},{""year"":2016,""number"":21913},{""year"":2017,""number"":21715}]"
+Chiyoda,Japan,"[35.691,139.7376]",Point,Nihon,"[{""year"":2020,""number"":2353},{""year"":2019,""number"":3053},{""year"":2018,""number"":25675},{""year"":2017,""number"":2667}]"
